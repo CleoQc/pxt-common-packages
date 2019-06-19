@@ -59,4 +59,4 @@ control.onEvent(pixelLighter, 1, () => {
 
 ## See also #seealso
 
-[on event](/libs/base/docs/reference/control/on-event), [wait for event](/libs/base/docs/reference/control/wait-for-event)
+[on event](/libs/base/docs/reference/control/on-event.md), [wait for event](/libs/base/docs/reference/control/wait-for-event.md)
