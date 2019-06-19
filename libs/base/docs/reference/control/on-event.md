@@ -91,4 +91,4 @@ control.onEvent(pixelLighter, 1, () => {
 
 ## See also ##seealso
 
-[raise event](/reference/control/raise-event)
+[raise event](/libs/base/docs/reference/control/raise-event.md)
